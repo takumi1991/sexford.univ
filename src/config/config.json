@@ -1,14 +1,14 @@
 {
   "site": {
-    "title": "EV0 ",
-    "base_url": "https://ev0.gndx.io",
+    "title": "sexford-university",
+    "base_url": "https://sexford-university.netlify.app/",
     "base_path": "/",
     "favicon": "/favicon.png",
     "logoLight": "/logoLight.png",
     "logoDark": "/logoDark.png",
-    "lang": "en",
+    "lang": "jp",
     "description": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript.",
-    "pageSize": 6
+    "pageSize": 12
   },
   "features": {
     "youtube": true,
