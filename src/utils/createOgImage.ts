@@ -15,8 +15,8 @@ export const createOgImage = ({ title, meta, imageId }: { title: string; meta: s
     `l_text:Ubuntu_52_bold:${e(meta)},co_rgb:ffe4e680,c_fit,w_1400`,
     // Positioning
     `fl_layer_apply,g_south_west,x_100,y_100`,
-    // IMAGE
-    imageId,
+    // IMAGE <YOUR Cloudinary IMAGE ID>
+    `imageId`,
   ].join('/');
 
 // double escape for commas and slashes
