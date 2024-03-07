@@ -7,14 +7,14 @@ export const createOgImage = ({ title, meta, CloudinaryId }: { title: string; me
     `w_1600,h_836,q_100`,
     // TITLE
     // Karla google font in light rose
-    `l_text:Ubuntu_92_bold:${e(title)},co_rgb:ffe4e6,c_fit,w_1200,h_400`,
+    // `l_text:Ubuntu_92_bold:${e(title)},co_rgb:ffe4e6,c_fit,w_1200,h_400`,
     // Positioning
-    `fl_layer_apply,g_south_west,x_100,y_340`,
+    // `fl_layer_apply,g_south_west,x_100,y_340`,
     // META
     // Karla, but smaller
-    `l_text:Ubuntu_52_bold:${e(meta)},co_rgb:ffe4e680,c_fit,w_1400`,
+    // `l_text:Ubuntu_52_bold:${e(meta)},co_rgb:ffe4e680,c_fit,w_1400`,
     // Positioning
-    `fl_layer_apply,g_south_west,x_100,y_100`,
+    // `fl_layer_apply,g_south_west,x_100,y_100`,
     // IMAGE <YOUR Cloudinary IMAGE ID>
     CloudinaryId,
   ].join('/');
