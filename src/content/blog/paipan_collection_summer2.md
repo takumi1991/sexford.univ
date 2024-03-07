@@ -1,12 +1,13 @@
 ---
-title: 'パイパンコレクション 無毛宣言サマー2007 2/2'
-description: 'あのプールでパイパンガールたちがお互いの体をいじり倒す😍'
-pubDate: '2024-03-06T11:03:52.704Z'
+title: 'Venuses frolic in the pool 2/2'
+description: 'Venuses playing with each other in the pool😻'
+pubDate: '2024-03-06T10:49:47.514Z'
 heroImage: '/blog-placeholder.jpg'
-video: 'https://www.tokyomotion.net/embed/d4b966b4b17f52fb634f'
+video: 'https://www.tokyomotion.net/embed/ba7f5c1ac76095f4b770'
 categories: ['本編無修正']
-tags: ['パイパン']
+tags: ['beautiful pussy','pool','美マン','プール']
 author: '["Sexford_Circus"]'
 ---
 
-あのプールでパイパンガールたちがお互いの体をいじり倒す😍
+Venuses play with each other's bodies in the pool😻<br>
+あのプールでパイパンガールたちがお互いの体をいじり倒す😻<br>

@@ -1,12 +1,15 @@
 ---
-title: '【無修正動画】純粋無垢な清楚美少女がお金のために初めてのハメ撮り'
-description: 'お風呂で輝く白い肌と巨乳 手マンで洗ってあげる😻'
+title: 'Beautiful, neat and tidy girls filmed for sex for the first time for money'
+description: 'Bare skin and big tits shining in the bath. Wash her crotch with hand grooming😻'
 pubDate: '2024-03-06T12:37:47.613Z'
 heroImage: '/blog-placeholder.jpg'
 video: 'https://www.tokyomotion.net/embed/8421edaca12faa28aa92'
 categories: ['本編無修正']
-tags: ['巨乳','風呂','陰毛']
+tags: ['bath','Unshaven','lovely tits','美乳','風呂','陰毛']
 author: '["Sexford_Circus"]'
 ---
 
-お風呂で輝く白い肌と巨乳 手マンで洗ってあげる😻
+<br>
+
+Bare skin and lovely tits shining in the bath. Wash her crotch with hand grooming😻<br>
+お風呂で輝く肌と美乳 手マンで洗ってあげる😻

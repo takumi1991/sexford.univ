@@ -1,11 +1,12 @@
 ---
-title: '無毛宣言『ブラック・アンド・ホワイト』～パイパン娘たちのサマー・ゲーム～'
-description: 'かわいいパイパンむすめたち６人でツイスターゲーム😻'
+title: 'Black Heroines vs Colourful Heroines'
+description: 'Six cuties compete in a twister to expose their embarrassing parts😻'
 pubDate: '2024-03-06T12:08:04.336Z'
 heroImage: '/blog-placeholder.jpg'
 video: 'https://www.tokyomotion.net/embed/a3170c13dd856ef2154e'
 categories: ['本編無修正']
-tags: ['パイパン']
+tags: ['cosplay','コスプレ']
 ---
 
-かわいいパイパンむすめたち６人でツイスターゲーム😻
+Six cuties compete in a twister to expose their embarrassing parts😻<br>
+６人のかわいい子たちがツイスターで競い合い恥ずかしい部分が露わになる😻

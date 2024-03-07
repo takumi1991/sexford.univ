@@ -5,12 +5,8 @@
       "url": "/"
     },
     {
-      "name": "タグ",
+      "name": "tags",
       "url": "/tags"
-    },
-    {
-      "name": "カテゴリ",
-      "url": "/categories"
     }
   ]
 }

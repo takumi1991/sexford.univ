@@ -8,7 +8,7 @@ const posts = (await getCollection('blog')).sort((a, b) => b.data.pubDate.valueO
 ---
 
 <Base>
-  <h1 class="mb-8 text-2xl font-bold md:text-3xl">人気上昇中 ⤴</h1>
+  <h1 class="mb-8 text-2xl font-bold md:text-3xl">increasing in popularity ⤴</h1>
   <Posts posts={posts} />
   <HomePagination />
 </Base>
