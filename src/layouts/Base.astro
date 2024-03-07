@@ -18,15 +18,15 @@ export interface Props {
   noindex?: boolean;
   canonical?: string;
   blogpost?: boolean;
-  //imageId?: string; // Cloudinary用にこの行を追加
+  imageId?: string; // Cloudinary用にこの行を追加
 }
 
-const { title, meta_title, description, image, noindex, blogpost } = Astro.props;
+const { title, meta_title, description, imageId, noindex, blogpost } = Astro.props;
 
 const ogImage = createOgImage({
   title: meta_title ? meta_title : title ? title : config.site.title,
   meta: [config.site.title, config.site.base_url].join(' · '),
-  image: meta_title ? meta_title : title ? title : config.site.title, // Cloudinary用にこの行を追加
+  CloudinaryId: imageId ? imageId : '', // Cloudinary用にこの行を追加
 });
 ---
 
