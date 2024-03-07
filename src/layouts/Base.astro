@@ -26,7 +26,7 @@ const { title, meta_title, description, image, noindex, blogpost } = Astro.props
 const ogImage = createOgImage({
   title: meta_title ? meta_title : title ? title : config.site.title,
   meta: [config.site.title, config.site.base_url].join(' · '),
-  image: image ? image : '', // Cloudinary用にこの行を追加
+  image: meta_title ? meta_title : title ? title : config.site.title, // Cloudinary用にこの行を追加
 });
 ---
 
