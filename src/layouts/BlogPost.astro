@@ -10,10 +10,10 @@ import { slugify } from '@utils/slug';
 
 type Props = CollectionEntry<'blog'>['data'];
 
-const { title, description, pubDate, video, categories, tags } = Astro.props;
+const { title, description, pubDate, video, imageId, categories, tags } = Astro.props;
 ---
 
-<Base meta_title={title} description={description} blogpost>
+<Base meta_title={title} description={description} imageId={imageId} blogpost>
   <article>
     <h1 class="mb-8 text-2xl font-bold md:text-4xl">{title}</h1>
     <div class="aspect-ratio-16/9 flex max-w-full justify-center overflow-hidden">
