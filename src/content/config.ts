@@ -8,9 +8,10 @@ const blog = defineCollection({
     updatedDate: z.coerce.date().optional(),
     heroImage: z.string().optional(),
     video: z.string().optional(),
+    imageId: z.string().optional(),
     categories: z.array(z.string()).default(['others']),
     tags: z.array(z.string()).default(['others']),
-    authors: z.array(z.string()).default(['gndx']),
+    authors: z.array(z.string()).default(['sexford_university']),
   }),
 });
 

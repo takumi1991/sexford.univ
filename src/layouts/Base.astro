@@ -18,7 +18,7 @@ export interface Props {
   noindex?: boolean;
   canonical?: string;
   blogpost?: boolean;
-  imageId?: string; // Cloudinary用にこの行を追加
+  imageId?: string; // Cloudinary用にこの行を追加 マークダウンファイルの変数を管理しているのはconfig.tsだ
 }
 
 const { title, meta_title, description, imageId, noindex, blogpost } = Astro.props;
