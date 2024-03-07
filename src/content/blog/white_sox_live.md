@@ -6,7 +6,7 @@ heroImage: '/blog-placeholder.jpg'
 video: 'https://www.tokyomotion.net/embed/de5fad9de10d3f54028a'
 categories: ['本編無修正']
 tags: ['パイパン','靴下']
-author: '["sexford_university"]'
+author: '["Sexford_Circus"]'
 ---
 
 足を上げてとろける表情がまたエモい😻

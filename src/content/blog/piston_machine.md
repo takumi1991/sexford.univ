@@ -7,7 +7,7 @@ imageId: 'kdqixlklsqrbpny5h9uf'
 video: 'https://www.tokyomotion.net/embed/ccdb6fefa09b5c133b94'
 categories: ['本編無修正']
 tags: ['パイパン','コスプレ','靴下']
-author: '["sexford_university"]'
+author: '["Sexford_Circus"]'
 ---
 
 情けない痴態をさらして喜ぶメリークリスマス🎄

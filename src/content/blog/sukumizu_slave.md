@@ -6,7 +6,7 @@ heroImage: '/blog-placeholder.jpg'
 video: 'https://www.xvideos.com/embedframe/44449771'
 categories: ['本編無修正']
 tags: ['パイパン','プール']
-author: '["sexford_university"]'
+author: '["Sexford_Circus"]'
 ---
 
 あのプールであんなことこんなこと。男のロマンが詰まっている😻

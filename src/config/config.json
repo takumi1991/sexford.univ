@@ -1,13 +1,13 @@
 {
   "site": {
-    "title": "sexford-university",
-    "base_url": "https://sexford-university.netlify.app/",
+    "title": "Sexford-Circus",
+    "base_url": "https://sexford-circus.netlify.app/",
     "base_path": "/",
     "favicon": "/favicon.png",
     "logoLight": "/logoLight.png",
     "logoDark": "/logoDark.png",
     "lang": "jp",
-    "description": "セックスフォード大学は個人が健康的で満足のいく性生活を送るための知識とスキルを身につけることを啓発しています。",
+    "description": "Discover sexy videos at Sexford-Circus!",
     "pageSize": 12
   },
   "features": {
@@ -15,12 +15,12 @@
     "dark_mode": true
   },
   "metadata": {
-    "meta_author": "sexford-university",
-    "meta_description": "セックスフォード大学は個人が健康的で満足のいく性生活を送るための知識とスキルを身につけることを啓発しています。"
+    "meta_author": "Sexford-Circus",
+    "meta_description": "Discover sexy videos at Sexford-Circus!。"
   },
   "author": {
-    "name": "sexford-university",
+    "name": "Sexford-Circus",
     "avatar": "https://s3.amazonaws.com/gndx.dev/gndx-astro-avatar.png",
-    "bio": "セックスフォード大学は個人が健康的で満足のいく性生活を送るための知識とスキルを身につけることを啓発しています。"
+    "bio": "Discover sexy videos at Sexford-Circus!"
   }
 }

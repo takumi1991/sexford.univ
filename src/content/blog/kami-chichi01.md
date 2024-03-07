@@ -5,7 +5,7 @@ pubDate: '2024-03-06T10:35:35.514Z'
 heroImage: '/blog-placeholder.jpg'
 video: 'https://www.tokyomotion.net/embed/ce59e7aa9be6161f49a0'
 categories: ['本編無修正']
-authors: ['sexford_university']
+authors: ['Sexford_Circus']
 tags: ['パイパン', 'technology']
 ---
 

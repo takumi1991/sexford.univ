@@ -5,7 +5,7 @@ pubDate: '2024-03-06T10:01:01.514Z'
 heroImage: '/blog-placeholder.jpg'
 video: 'https://www.tokyomotion.net/embed/6ee63668508477f181ab'
 categories: ['本編無修正']
-authors: ['sexford_university']
+authors: ['Sexford_Circus']
 tags: ['パイパン', 'ぽっちゃり']
 ---
 

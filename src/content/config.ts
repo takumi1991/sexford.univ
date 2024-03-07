@@ -9,7 +9,7 @@ const blog = defineCollection({
     heroImage: z.string().optional(),
     categories: z.array(z.string()).default(['others']),
     tags: z.array(z.string()).default(['others']),
-    authors: z.array(z.string()).default(['sexford_university']),
+    authors: z.array(z.string()).default(['Sexford_Circus']),
     video: z.string().optional(),
     imageId: z.string().optional(),
     // twitter_title: z.string(),

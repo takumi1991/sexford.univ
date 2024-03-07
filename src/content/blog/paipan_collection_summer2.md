@@ -6,7 +6,7 @@ heroImage: '/blog-placeholder.jpg'
 video: 'https://www.tokyomotion.net/embed/d4b966b4b17f52fb634f'
 categories: ['本編無修正']
 tags: ['パイパン']
-author: '["sexford_university"]'
+author: '["Sexford_Circus"]'
 ---
 
 あのプールでパイパンガールたちがお互いの体をいじり倒す😍
