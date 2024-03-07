@@ -7,7 +7,7 @@ video: 'https://www.tokyomotion.net/embed/40a60787f19512372871'
 categories: ['astronomy']
 tags: ['放尿','コスプレ','野外']
 author: '["sexford_university"]'
-imageId: 'ltwqnblyqcz8ypxky7e6.png'
+imageId: 'ltwqnblyqcz8ypxky7e6'
 ---
 
 お互いに抱きかかえて派手にスプラッシュ😻
