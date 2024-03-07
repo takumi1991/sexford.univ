@@ -4,7 +4,7 @@ description: '診察台でじっくり観察😻'
 pubDate: '2024-03-06T13:55:44.275Z'
 heroImage: '/blog-placeholder.jpg'
 video: 'https://www.tokyomotion.net/embed/bb7c849fcf8e87f55fbc'
-categories: ['astronomy']
+categories: ['本編無修正']
 tags: ['美マン','クリ']
 author: '["sexford_university"]'
 ---

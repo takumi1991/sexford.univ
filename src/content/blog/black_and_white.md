@@ -4,7 +4,7 @@ description: 'かわいいパイパンむすめたち６人でツイスターゲ
 pubDate: '2024-03-06T12:08:04.336Z'
 heroImage: '/blog-placeholder.jpg'
 video: 'https://www.tokyomotion.net/embed/a3170c13dd856ef2154e'
-categories: ['astrobiology']
+categories: ['本編無修正']
 tags: ['パイパン']
 ---
 

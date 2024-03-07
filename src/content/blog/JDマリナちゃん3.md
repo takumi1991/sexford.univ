@@ -4,7 +4,7 @@ description: '何回も何回もピストン 後ろから至近で撮影 結合�
 pubDate: '2024-03-06T13:59:44.275Z'
 heroImage: '/blog-placeholder.jpg'
 video: 'https://www.tokyomotion.net/embed/ce85fd371448ffff3bbe'
-categories: ['astronomy']
+categories: ['本編無修正']
 tags: ['美マン','靴下']
 author: '["sexford_university"]'
 ---

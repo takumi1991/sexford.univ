@@ -4,7 +4,7 @@ description: 'あのプールであんなことこんなこと。男のロマン
 pubDate: '2024-03-06T12:32:44.275Z'
 heroImage: '/blog-placeholder.jpg'
 video: 'https://www.xvideos.com/embedframe/44449771'
-categories: ['astronomy']
+categories: ['本編無修正']
 tags: ['パイパン','プール']
 author: '["sexford_university"]'
 ---

@@ -4,7 +4,7 @@ description: 'あのプールでパイパン美女たちが競演'
 pubDate: '2024-03-06T10:58:52.704Z'
 heroImage: '/blog-placeholder.jpg'
 video: 'https://www.tokyomotion.net/embed/ba7f5c1ac76095f4b770'
-categories: ['astrophysics']
+categories: ['本編無修正']
 tags: ['パイパン']
 author: '["gsexford_universityndx"]'
 ---
