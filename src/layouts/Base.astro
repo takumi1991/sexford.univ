@@ -86,21 +86,40 @@ const ogImage = createOgImage({
     <link rel="manifest" href="/manifest.webmanifest" />
     <ViewTransitions />
   </head>
+
   <body class="bg-white dark:bg-zinc-900/95">
     <Header />
     <!-- {!blogpost && <Hero />} -->
-    <main class="mx-auto max-w-screen-lg px-4 py-8 sm:px-6 sm:py-12 lg:px-8">
+    <main class="mx-auto max-w-screen-lg px-2 py-8 sm:py-12">
       <slot />
+      <div class="mx-auto mt-8 flex justify-center">
+        <script type="text/javascript">
+          atOptions = {
+            key: '762ea69513b1390f562a34004d0e87eb',
+            format: 'iframe',
+            height: 90,
+            width: 728,
+            params: {},
+          };
+          document.write(
+            '<scr' +
+              'ipt type="text/javascript" src="//www.topcreativeformat.com/762ea69513b1390f562a34004d0e87eb/invoke.js"></scr' +
+              'ipt>'
+          );
+        </script>
+      </div>
     </main>
     <!-- {!blogpost && config.features.youtube && <FeaturedVideos />} -->
     <br />
     <br />
     <br />
     <br />
-    <Footer />
+
     <script>
       // This is a hack to get vite-plugin-pwa to generate a sw.js file.
       // Do not remove this script tag.
     </script>
+
+    <Footer />
   </body>
 </html>

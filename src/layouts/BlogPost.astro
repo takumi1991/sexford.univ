@@ -15,38 +15,77 @@ const { title, description, pubDate, video, imageId, categories, tags } = Astro.
 ---
 
 <Base meta_title={title} description={description} imageId={imageId} blogpost>
-  <article>
-    <h1 class="mb-8 text-2xl font-bold md:text-4xl">{title}</h1>
-    <div class="aspect-ratio-16/9 flex max-w-full justify-center overflow-hidden">
-      {
-        video && (
-          <iframe
-            width="800"
-            height="602"
-            src={video}
-            allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen
-          />
-        )
-      }
+  <div class="lg:-ml-20 lg:flex">
+    <div class="mt-20 hidden lg:mr-8 lg:block lg:w-1/6">
+      <div class="flex justify-start">
+        <script type="text/javascript">
+          atOptions = {
+            key: '6aca5ea5db811f8d6a55793193d98019',
+            format: 'iframe',
+            height: 600,
+            width: 160,
+            params: {},
+          };
+          document.write(
+            '<scr' +
+              'ipt type="text/javascript" src="//www.topcreativeformat.com/6aca5ea5db811f8d6a55793193d98019/invoke.js"></scr' +
+              'ipt>'
+          );
+        </script>
+      </div>
     </div>
+    <article class="lg:mr-20 lg:w-4/6 lg:max-w-screen-md">
+      <h1 class="mb-8 text-2xl font-bold md:text-4xl">{title}</h1>
+      <div class="aspect-ratio-16/9 flex max-w-full justify-center overflow-hidden">
+        {
+          video && (
+            <iframe
+              width="800"
+              height="602"
+              src={video}
+              allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+            />
+          )
+        }
+      </div>
 
-    <div class="prose-md prose prose-green mt-8 min-w-full md:prose-lg">
-      <slot />
+      <div class="prose-md prose prose-green mt-8 min-w-full md:prose-lg">
+        <slot />
+      </div>
+      <div class="mt-8">
+        {
+          tags?.map((tag) => (
+            <a
+              href={`/tags/${slugify(tag)}`}
+              class="mb-2 mr-2 inline-block rounded-full bg-zinc-200 px-3 py-1 text-sm font-semibold capitalize text-zinc-700 dark:bg-zinc-900 dark:text-zinc-400"
+            >
+              #{tag}
+            </a>
+          ))
+        }
+      </div>
+    </article>
+
+    <div class="mt-20 hidden lg:block lg:w-1/6">
+      <div class="flex justify-start">
+        <script type="text/javascript">
+          atOptions = {
+            key: '6aca5ea5db811f8d6a55793193d98019',
+            format: 'iframe',
+            height: 600,
+            width: 160,
+            params: {},
+          };
+          document.write(
+            '<scr' +
+              'ipt type="text/javascript" src="//www.topcreativeformat.com/6aca5ea5db811f8d6a55793193d98019/invoke.js"></scr' +
+              'ipt>'
+          );
+        </script>
+      </div>
     </div>
-    <div class="mt-8">
-      {
-        tags?.map((tag) => (
-          <a
-            href={`/tags/${slugify(tag)}`}
-            class="mb-2 mr-2 inline-block rounded-full bg-zinc-200 px-3 py-1 text-sm font-semibold capitalize text-zinc-700 dark:bg-zinc-900 dark:text-zinc-400"
-          >
-            #{tag}
-          </a>
-        ))
-      }
-    </div>
-  </article>
+  </div>
 
   <div class="m-auto mt-12 text-right">
     <a

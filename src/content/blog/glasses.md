@@ -1,5 +1,5 @@
 ---
-title: 'Cute glasses'
+title: 'Cute girl with glasses'
 description: 'Slender girl who looks good in glasses, flirting and fucking at a hotel😻'
 pubDate: '2024-03-06T13:48:44.275Z'
 heroImage: '/blog-placeholder.jpg'
