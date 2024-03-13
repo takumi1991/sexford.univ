@@ -92,21 +92,8 @@ const ogImage = createOgImage({
     <!-- {!blogpost && <Hero />} -->
     <main class="mx-auto max-w-screen-lg px-2 py-8 sm:py-12">
       <slot />
-      <div class="mx-auto mt-8 flex justify-center">
-        <script type="text/javascript">
-          atOptions = {
-            key: '762ea69513b1390f562a34004d0e87eb',
-            format: 'iframe',
-            height: 90,
-            width: 728,
-            params: {},
-          };
-          document.write(
-            '<scr' +
-              'ipt type="text/javascript" src="//www.topcreativeformat.com/762ea69513b1390f562a34004d0e87eb/invoke.js"></scr' +
-              'ipt>'
-          );
-        </script>
+      <div class="mx-auto mt-8 flex justify-center" id="bottom_bannar">
+        <script type="text/javascript"></script>
       </div>
     </main>
     <!-- {!blogpost && config.features.youtube && <FeaturedVideos />} -->

@@ -19,7 +19,7 @@ const { title, description, pubDate, video, imageId, categories, tags } = Astro.
     <div class="mt-20 hidden lg:mr-8 lg:block lg:w-1/6">
       <div class="flex justify-start"></div>
     </div>
-    <article class="lg:mr-20 lg:w-4/6 lg:max-w-screen-md">
+    <article class="lg:mr-20 lg:w-4/5 lg:max-w-screen-md">
       <h1 class="mb-8 text-2xl font-bold md:text-4xl">{title}</h1>
       <div class="aspect-ratio-16/9 flex max-w-full justify-center overflow-hidden">
         {
@@ -52,8 +52,8 @@ const { title, description, pubDate, video, imageId, categories, tags } = Astro.
       </div>
     </article>
 
-    <div class="mt-20 hidden lg:block lg:w-1/6">
-      <div class="flex justify-start">
+    <div class="mt-20 hidden lg:block lg:w-1/5">
+      <div class="flex justify-start" id="bannar_right">
         <script type="text/javascript">
           atOptions = {
             key: '6aca5ea5db811f8d6a55793193d98019',
@@ -62,11 +62,19 @@ const { title, description, pubDate, video, imageId, categories, tags } = Astro.
             width: 160,
             params: {},
           };
-          document.write(
-            '<scr' +
-              'ipt type="text/javascript" src="//www.topcreativeformat.com/6aca5ea5db811f8d6a55793193d98019/invoke.js"></scr' +
-              'ipt>'
-          );
+
+          var script = document.createElement('script');
+          script.type = 'text/javascript';
+          script.src = '//www.topcreativeformat.com/6aca5ea5db811f8d6a55793193d98019/invoke.js';
+
+          // 非同期読み込みの設定。必要に応じてコメントアウトを外してください。
+          //script.async = true;
+
+          // スクリプトタグをドキュメントのheadに追加します。bodyに追加する場合は、document.body.appendChild(script); を使用します。
+          // IDを持つdiv要素を見つけます。この例では"id=targetDiv"です。
+          var bannar_right = document.getElementById('bannar_right');
+          // 見つかったdiv要素の中にスクリプトタグを追加します。
+          bannar_right.appendChild(script);
         </script>
       </div>
     </div>
