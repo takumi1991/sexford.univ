@@ -16,7 +16,7 @@ const { title, description, pubDate, video, imageId, categories, tags } = Astro.
 
 <Base meta_title={title} description={description} imageId={imageId} blogpost>
   <div class="lg:-ml-20 lg:flex">
-    <div class="mt-20 hidden lg:mr-8 lg:block lg:w-1/6">
+    <div class="mt-20 hidden lg:mr-8 lg:block lg:w-4/5">
       <div class="flex justify-start"></div>
     </div>
     <article class="lg:mr-20 lg:w-4/5 lg:max-w-screen-md">
@@ -53,29 +53,10 @@ const { title, description, pubDate, video, imageId, categories, tags } = Astro.
     </article>
 
     <div class="mt-20 hidden lg:block lg:w-1/5">
-      <div class="flex justify-start" id="bannar_right">
-        <script type="text/javascript">
-          atOptions = {
-            key: '6aca5ea5db811f8d6a55793193d98019',
-            format: 'iframe',
-            height: 600,
-            width: 160,
-            params: {},
-          };
-
-          var script = document.createElement('script');
-          script.type = 'text/javascript';
-          script.src = '//www.topcreativeformat.com/6aca5ea5db811f8d6a55793193d98019/invoke.js';
-
-          // 非同期読み込みの設定。必要に応じてコメントアウトを外してください。
-          //script.async = true;
-
-          // スクリプトタグをドキュメントのheadに追加します。bodyに追加する場合は、document.body.appendChild(script); を使用します。
-          // IDを持つdiv要素を見つけます。この例では"id=targetDiv"です。
-          var bannar_right = document.getElementById('bannar_right');
-          // 見つかったdiv要素の中にスクリプトタグを追加します。
-          bannar_right.appendChild(script);
-        </script>
+      <div class="flex w-full justify-start" id="bannar_right">
+        <a href="https://click.dtiserv2.com/Click902/1103052-103-234542" target="_blank" rel="noopener" class="w-72"
+          ><img src="https://affiliate.dtiserv.com/image/dxlive/160_600_en.jpg" border="0" /></a
+        >
       </div>
     </div>
   </div>

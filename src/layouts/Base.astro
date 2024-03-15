@@ -90,11 +90,31 @@ const ogImage = createOgImage({
   <body class="bg-white dark:bg-zinc-900/95">
     <Header />
     <!-- {!blogpost && <Hero />} -->
-    <main class="mx-auto max-w-screen-lg px-2 py-8 sm:py-12">
+    <main class="mx-auto max-w-screen-lg px-2">
+      <div class="mx-auto mb-4 mt-4 flex hidden justify-center md:block lg:mt-8">
+        <a
+          href="https://click.dtiserv2.com/Click902/1103053-103-234542"
+          target="_blank"
+          rel="noopener"
+          class="flex justify-center"><img src="https://affiliate.dtiserv.com/image/dxlive/728_90_en.jpg" /></a
+        >
+        <script type="text/javascript"></script>
+      </div>
+      <div class="mb-4 mt-4 block md:hidden">
+        <!-- スマホ用広告バナーのコード -->
+        <div class="flex justify-center">
+          <iframe
+            src="https://mmaaxx.com/table/dx/9103068/index.html?affid=234542"
+            width="300"
+            height="100"
+            frameborder="no"
+            scrolling="no"></iframe>
+        </div>
+      </div>
       <slot />
       <div class="mx-auto mt-8 flex justify-center" id="bottom_bannar">
         <a href="https://click.dtiserv2.com/Click902/1103053-103-234542" target="_blank" rel="noopener"
-          ><img src="https://affiliate.dtiserv.com/image/dxlive/728_90_en.jpg" border="0" /></a
+          ><img src="https://affiliate.dtiserv.com/image/dxlive/728_90_en.jpg" /></a
         >
         <script type="text/javascript"></script>
       </div>
